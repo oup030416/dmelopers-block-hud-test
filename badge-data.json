@@ -1,17 +1,19 @@
 {
-    "SchemaVersion":  2,
+    "SchemaVersion":  3,
     "RepoSlug":  "oup030416/dmelopers-block-hud-test",
-    "GeneratedAtUtc":  "2026-08-02T16:04:50.4136919+00:00",
+    "GeneratedAtUtc":  "2026-08-13T16:23:24.6454362+00:00",
     "LatestRelease":  "v1.4.1",
     "LatestReleaseName":  "DMeloper\u0027s Block HUD v1.4.1",
     "LatestReleaseKorea":  "v1.4.1",
     "LatestReleaseNameKorea":  "DMeloper\u0027s Block HUD v1.4.1",
     "LatestAssetNameKorea":  "DMelopers-Block-HUD_Korea.zip",
+    "LatestAssetSha256Korea":  "DDBF60BC7DE9664968B28A4390881D394ADC2430879D3CDAD7232ECB95B2AA8A",
     "LatestPublishedAtUtcKorea":  "2026-07-27T16:41:07Z",
     "LatestReleaseGlobal":  "v1.4.1",
     "LatestReleaseNameGlobal":  "DMeloper\u0027s Block HUD v1.4.1",
     "LatestAssetNameGlobal":  "DMelopers-Block-HUD_Global.zip",
+    "LatestAssetSha256Global":  "8848C99F326EEEB96FA012538C30A5CC2940A15A22ACA2C36006C96B253EDB42",
     "LatestPublishedAtUtcGlobal":  "2026-07-27T16:41:07Z",
-    "TotalDownloads":  19,
+    "TotalDownloads":  25,
     "Stars":  0
 }
